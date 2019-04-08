@@ -1,10 +1,10 @@
 {
   "expoServerNgrokUrl": "https://vr-iud.anonymous.udacifitness.exp.direct",
   "packagerNgrokUrl": "https://packager.vr-iud.anonymous.udacifitness.exp.direct",
-  "ngrokPid": 10056,
+  "ngrokPid": 14184,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 5272,
+  "packagerPid": 5704,
   "webpackServerPort": null,
   "devToolsPort": 19002
 }
